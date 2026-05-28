@@ -90,6 +90,6 @@ def display_stories(stories, n=20):
 if __name__ == "__main__":
     stories = fetch_top_stories(limit=50, min_score=50)
     display_stories(stories, n=15)
-    save_to_csv(stories)
-    save_to_json(stories)
+    save_to_csv(stories, "project4_hn_news/hn_top_stories.csv")
+    save_to_json(stories, "project4_hn_news/hn_top_stories.json")
 
