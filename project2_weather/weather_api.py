@@ -83,7 +83,7 @@ def display_weather(city_info, weather_data):
     print()
 
 
-def save_weather_json(city_info, weather_data, f"project2_weather/weather_{city.lower().replace(' ', '_')}.json"):
+def save_weather_json(city_info, weather_data, filename="weather_data.json"):
     output = {"city": city_info, "fetched_at": datetime.now().isoformat(), "data": weather_data}
     with open(filename, "w") as f:
         json.dump(output, f, indent=2)
@@ -98,7 +98,7 @@ if __name__ == "__main__":
             city_info = get_coordinates(city)
             weather_data = get_weather(city_info["lat"], city_info["lon"])
             display_weather(city_info, weather_data)
-            save_weather_json(city_info, weather_data, f"weather_{city.lower().replace(' ', '_')}.json")
+            save_weather_json(city_info, weather_data, f"project2_weather/weather_{city.lower().replace(' ', '_')}.json")
         except Exception as e:
             print(f"Error fetching weather for {city}: {e}")
 
