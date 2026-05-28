@@ -61,8 +61,8 @@ def save_to_json(quotes, filename="quotes.json"):
 
 if __name__ == "__main__":
     quotes = scrape_quotes(max_pages=5)
-    save_to_csv(quotes)
-    save_to_json(quotes)
+    save_to_csv(quotes, "project1_quotes/quotes.csv")
+    save_to_json(quotes, "project1_quotes/quotes.json")
 
     print(f"\nTotal quotes scraped: {len(quotes)}")
     print("\nSample:")
