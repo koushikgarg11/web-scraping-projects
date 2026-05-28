@@ -105,12 +105,11 @@ if __name__ == "__main__":
     # Scrape all languages
     all_repos = scrape_trending(language="", time_range="daily")
     display_repos(all_repos)
-    save_csv(all_repos)
-    save_json(all_repos)
+    save_csv(all_repos, "project5_github_trending/github_trending.csv")
+    save_json(all_repos, "project5_github_trending/github_trending.json")
 
     # Also scrape Python-specific trending
     print("\n--- Python Trending ---")
     python_repos = scrape_trending(language="python", time_range="weekly")
     display_repos(python_repos)
-    save_csv(python_repos, "github_trending_python.csv")
-
+    save_csv(python_repos, "project5_github_trending/github_trending_python.csv")
