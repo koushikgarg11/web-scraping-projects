@@ -83,7 +83,7 @@ def display_weather(city_info, weather_data):
     print()
 
 
-def save_weather_json(city_info, weather_data, filename="weather_data.json"):
+def save_weather_json(city_info, weather_data, f"project2_weather/weather_{city.lower().replace(' ', '_')}.json"):
     output = {"city": city_info, "fetched_at": datetime.now().isoformat(), "data": weather_data}
     with open(filename, "w") as f:
         json.dump(output, f, indent=2)
