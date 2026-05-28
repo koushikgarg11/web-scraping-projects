@@ -1,0 +1,317 @@
+[
+  {
+    "id": 48302745,
+    "title": "Can we have the day off?",
+    "url": "https://mlsu.io/posts/day-off/",
+    "score": 834,
+    "by": "mlsu",
+    "comments": 496,
+    "time": "2026-05-28 00:40"
+  },
+  {
+    "id": 48296794,
+    "title": "I think Anthropic and OpenAI have found product-market fit",
+    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+    "score": 751,
+    "by": "simonw",
+    "comments": 910,
+    "time": "2026-05-27 16:39"
+  },
+  {
+    "id": 48296649,
+    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+    "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+    "score": 746,
+    "by": "HelloUsername",
+    "comments": 367,
+    "time": "2026-05-27 16:28"
+  },
+  {
+    "id": 48295892,
+    "title": "Last.fm is now independent",
+    "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
+    "score": 696,
+    "by": "twistslider",
+    "comments": 186,
+    "time": "2026-05-27 15:36"
+  },
+  {
+    "id": 48299753,
+    "title": "YouTube to automatically label AI-generated videos",
+    "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+    "score": 693,
+    "by": "nopg",
+    "comments": 404,
+    "time": "2026-05-27 20:00"
+  },
+  {
+    "id": 48295679,
+    "title": "Tech CEOs are apparently suffering from AI psychosis",
+    "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+    "score": 623,
+    "by": "IAmGraydon",
+    "comments": 312,
+    "time": "2026-05-27 15:20"
+  },
+  {
+    "id": 48292941,
+    "title": "Private equity bought America's essential services",
+    "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
+    "score": 495,
+    "by": "NoRagrets",
+    "comments": 513,
+    "time": "2026-05-27 12:00"
+  },
+  {
+    "id": 48296994,
+    "title": "Canada to order military plane fleet from Sweden in shift from US suppliers",
+    "url": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft",
+    "score": 482,
+    "by": "tosh",
+    "comments": 341,
+    "time": "2026-05-27 16:53"
+  },
+  {
+    "id": 48291225,
+    "title": "All of human cooking compressed into 2 megabytes",
+    "url": "https://arxiv.org/abs/2605.22391",
+    "score": 396,
+    "by": "josefchen",
+    "comments": 159,
+    "time": "2026-05-27 08:14"
+  },
+  {
+    "id": 48289950,
+    "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+    "url": "https://arps18.github.io/posts/claude-code-mastery/",
+    "score": 389,
+    "by": "arps18",
+    "comments": 232,
+    "time": "2026-05-27 05:13"
+  },
+  {
+    "id": 48297645,
+    "title": "SimCity 3k in 4k (2025)",
+    "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+    "score": 324,
+    "by": "speckx",
+    "comments": 122,
+    "time": "2026-05-27 17:36"
+  },
+  {
+    "id": 48293080,
+    "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
+    "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
+    "score": 282,
+    "by": "maxnoe",
+    "comments": 193,
+    "time": "2026-05-27 12:15"
+  },
+  {
+    "id": 48284711,
+    "title": "The Melancholy of Slaying Monsters",
+    "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
+    "score": 273,
+    "by": "prismatic",
+    "comments": 139,
+    "time": "2026-05-26 19:25"
+  },
+  {
+    "id": 48291947,
+    "title": "Mini Micro Fantasy Computer",
+    "url": "https://miniscript.org/MiniMicro/index.html#about",
+    "score": 243,
+    "by": "nicoloren",
+    "comments": 80,
+    "time": "2026-05-27 09:56"
+  },
+  {
+    "id": 48299220,
+    "title": "What Apple and Google are doing to push notifications",
+    "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+    "score": 226,
+    "by": "iamacyborg",
+    "comments": 229,
+    "time": "2026-05-27 19:24"
+  },
+  {
+    "id": 48291575,
+    "title": "Go: Support for Generic Methods",
+    "url": "https://github.com/golang/go/issues/77273",
+    "score": 222,
+    "by": "f311a",
+    "comments": 168,
+    "time": "2026-05-27 09:02"
+  },
+  {
+    "id": 48302151,
+    "title": "FBI Arrests CIA Official with $40M in Gold Bars in His Home",
+    "url": "https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html",
+    "score": 218,
+    "by": "cwwc",
+    "comments": 126,
+    "time": "2026-05-27 23:23"
+  },
+  {
+    "id": 48247005,
+    "title": "Matrix Multiplications on GPUs Run Faster When Given \u201cPredictable\u201d Data (2024)",
+    "url": "https://www.thonking.ai/p/strangely-matrix-multiplications",
+    "score": 161,
+    "by": "tosh",
+    "comments": 46,
+    "time": "2026-05-23 12:11"
+  },
+  {
+    "id": 48299638,
+    "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
+    "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
+    "score": 135,
+    "by": "Panda_",
+    "comments": 45,
+    "time": "2026-05-27 19:52"
+  },
+  {
+    "id": 48277723,
+    "title": "Raft Consensus with a Minority of Nodes",
+    "url": "https://padhye.org/raft-minority/",
+    "score": 128,
+    "by": "moarbugs",
+    "comments": 18,
+    "time": "2026-05-26 10:30"
+  },
+  {
+    "id": 48299623,
+    "title": "Rust (and Slint) on a Jailbroken Kindle",
+    "url": "https://sverre.me/blog/rust-on-kindle/",
+    "score": 127,
+    "by": "homarp",
+    "comments": 14,
+    "time": "2026-05-27 19:51"
+  },
+  {
+    "id": 48254336,
+    "title": "Human Bottlenecks",
+    "url": "https://borretti.me/article/human-bottlenecks",
+    "score": 112,
+    "by": "zdw",
+    "comments": 36,
+    "time": "2026-05-24 04:19"
+  },
+  {
+    "id": 48297467,
+    "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
+    "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
+    "score": 106,
+    "by": "ChrisArchitect",
+    "comments": 51,
+    "time": "2026-05-27 17:24"
+  },
+  {
+    "id": 48296622,
+    "title": "Stress disrupts hippocampal integration of overlapping events, memory inference",
+    "url": "https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08",
+    "score": 103,
+    "by": "gmays",
+    "comments": 16,
+    "time": "2026-05-27 16:26"
+  },
+  {
+    "id": 48302822,
+    "title": "Google employee charged with $1M Polymarket insider trading bet on search term",
+    "url": "https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html",
+    "score": 102,
+    "by": "pseudolus",
+    "comments": 49,
+    "time": "2026-05-28 00:49"
+  },
+  {
+    "id": 48272763,
+    "title": "What Is a Direct Attach Copper (DAC) Cable? (2021)",
+    "url": "https://www.servethehome.com/what-is-a-direct-attach-copper-dac-cable/",
+    "score": 101,
+    "by": "teleforce",
+    "comments": 82,
+    "time": "2026-05-25 22:43"
+  },
+  {
+    "id": 48295071,
+    "title": "Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS",
+    "url": "https://tinycld.org/",
+    "score": 83,
+    "by": "nathanstitt",
+    "comments": 32,
+    "time": "2026-05-27 14:36"
+  },
+  {
+    "id": 48299335,
+    "title": "On Labubu and the Hyperreal",
+    "url": "https://2earth.github.io/website/20260525.html",
+    "score": 77,
+    "by": "2earth",
+    "comments": 85,
+    "time": "2026-05-27 19:31"
+  },
+  {
+    "id": 48304260,
+    "title": "Hallucinate \u2013 Massively Multiplayer Online Rave",
+    "url": "https://hallucinate.site",
+    "score": 72,
+    "by": "stagas",
+    "comments": 31,
+    "time": "2026-05-28 03:50"
+  },
+  {
+    "id": 48294791,
+    "title": "Show HN: I made an emergency page for my family",
+    "url": "https://help.delduca.org",
+    "score": 69,
+    "by": "delduca",
+    "comments": 93,
+    "time": "2026-05-27 14:18"
+  },
+  {
+    "id": 48268185,
+    "title": "My new obsession: A horse-racing board game of pure luck",
+    "url": "https://alexanderbjoy.com/horse-race-board-game/",
+    "score": 65,
+    "by": "surprisetalk",
+    "comments": 42,
+    "time": "2026-05-25 15:45"
+  },
+  {
+    "id": 48275255,
+    "title": "A New Typst Template for Pandoc (2025)",
+    "url": "https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/",
+    "score": 54,
+    "by": "ankitg12",
+    "comments": 8,
+    "time": "2026-05-26 05:08"
+  },
+  {
+    "id": 48300342,
+    "title": "Warm up your MacBook (2019)",
+    "url": "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/",
+    "score": 54,
+    "by": "kristianp",
+    "comments": 51,
+    "time": "2026-05-27 20:42"
+  },
+  {
+    "id": 48276429,
+    "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
+    "url": "https://arxiv.org/abs/2510.04950",
+    "score": 52,
+    "by": "KnuthIsGod",
+    "comments": 51,
+    "time": "2026-05-26 07:43"
+  },
+  {
+    "id": 48280356,
+    "title": "Interleaved Deltas",
+    "url": "https://mmapped.blog/posts/51-interleaved-deltas",
+    "score": 52,
+    "by": "surprisetalk",
+    "comments": 0,
+    "time": "2026-05-26 14:30"
+  }
+]
