@@ -117,6 +117,7 @@ python3 weather_api.py
 ---
 
 **Output**
+
 <img width="707" height="444" alt="image" src="https://github.com/user-attachments/assets/ad1d864e-996c-4034-9ca9-a2586318db62" />
 <img width="708" height="437" alt="image" src="https://github.com/user-attachments/assets/22fdf37b-ea12-4929-a2bd-5a68a4d4fdb8" />
 <img width="700" height="431" alt="image" src="https://github.com/user-attachments/assets/37238cf8-c51d-4f93-9af9-59a4055abe30" />
@@ -145,6 +146,7 @@ python3 books_scraper.py
 ---
 
 **Output**
+
 <img width="927" height="649" alt="image" src="https://github.com/user-attachments/assets/9e27e70c-d823-4567-a350-363871331ef1" />
 
 
@@ -170,6 +172,7 @@ python3 hn_scraper.py
 ---
 
 **Output**
+
 <img width="945" height="959" alt="image" src="https://github.com/user-attachments/assets/a32f5d82-ef4a-4ed1-b61f-ca56dad84a8e" />
 <img width="945" height="554" alt="image" src="https://github.com/user-attachments/assets/89660fb1-0f4e-441b-a961-5c76dfbff0a6" />
 
@@ -196,6 +199,7 @@ python3 github_trending.py
 ---
 
 **Output**
+
 <img width="1084" height="943" alt="image" src="https://github.com/user-attachments/assets/f8f0970f-d2e1-44ba-80c4-942139ff5989" />
 <img width="910" height="818" alt="image" src="https://github.com/user-attachments/assets/30188f95-f9c2-4157-80c8-f7a294916e7b" />
 <img width="1079" height="942" alt="image" src="https://github.com/user-attachments/assets/5fb99593-19ac-4218-87a5-bfa2e1a2c1cf" />
